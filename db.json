@@ -1,6 +1,7 @@
 {
-        "Hello": "Hello",
-        "language": {
-          "name": "english",
-          "Code": "en"
-        }
+	"Hello": "Hello",
+	"language": {
+		"name": "english",
+		"Code": "en"
+	}
+}
