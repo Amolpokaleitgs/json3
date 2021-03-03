@@ -1,5 +1,18 @@
 {
-	"Hello": "Hello",
+	"Hello":  [
+    {
+      "id": "en",
+      "title": "hello"
+    },
+    {
+      "id": "pt",
+      "title": "olla"
+    },
+    {
+      "id": "de",
+      "title": "yann"
+    }
+  ],
 	"language": {
 		"name": "english",
 		"Code": "en"
