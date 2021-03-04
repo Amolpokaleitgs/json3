@@ -1,18 +1,9 @@
 {
-	"Hello":  [
-    {
-      "id": "en",
-      "title": "hello"
-    },
-    {
-      "id": "pt",
-      "title": "olla"
-    },
-    {
-      "id": "de",
-      "title": "yann"
-    }
-  ],
+	"Keys":  {
+      "title": "hello",
+      "hi": "hi"
+	}
+	,
 	"language": {
 		"name": "english",
 		"Code": "en"
