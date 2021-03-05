@@ -1,11 +1,11 @@
 {
 	"Keys":  {
-      "title": "hello Developer",
-      "hi": "hi Developer"
+      "title": "你好开发人员",
+      "hi": "嗨，开发人员"
 	}
 	,
 	"language": {
 		"name": "english",
-		"Code": "en"
+		"Code": "chi"
 	}
 }
